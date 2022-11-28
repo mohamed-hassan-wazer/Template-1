@@ -111,13 +111,14 @@ body {
     position: relative;
 }
 .landing .intro-text {
-
+    position: absolute;
+    left: 50%;
 }
 .landing .intro-text h1 {
 
 }
 .landing .intro-text p {
-    
+
 }
 
 /* end header*/
