@@ -106,6 +106,9 @@ body {
 }
 .landing {
     background-image: url(/Images/landing.jpg);
+    background-size: cover;
+    height: calc(100vh - 64px);
+    position: relative;
 }
 
 /* end header*/
