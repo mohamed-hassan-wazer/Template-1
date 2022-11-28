@@ -113,6 +113,8 @@ body {
 .landing .intro-text {
     position: absolute;
     left: 50%;
+    top: 50%;
+
 }
 .landing .intro-text h1 {
 
