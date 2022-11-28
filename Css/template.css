@@ -101,5 +101,8 @@ body {
     color: #333;
     transition: var(--main-duration);
 }
+.header .links ul li:not(:last-child) a {
+    border-bottom: 1px solid #ddd;
+}
 
 /* end header*/
