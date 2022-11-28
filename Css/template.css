@@ -1,3 +1,8 @@
+/*stat variables*/
+:root {
+    --main-color: #10cab7;
+}
+/*stat variables*/
 /* start global rules*/
 * {
     -webkit-box-sizing: border-box;
@@ -120,7 +125,8 @@ body {
     max-width: 100%;
 }
 .landing .intro-text h1 {
-
+    margin: 0;
+    font-weight: bold;
 }
 .landing .intro-text p {
 
