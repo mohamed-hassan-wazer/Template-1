@@ -148,4 +148,7 @@ body {
     grid-template-columns: repeat(auto-fill, minmax(300px,lfr));
     grid-gap: 20px;
 }
+.features .feat {
+    padding: 20px;
+}
 /* end features*/
