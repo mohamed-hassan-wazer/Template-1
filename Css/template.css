@@ -50,6 +50,7 @@ body {
 .special-heading + p {
     margin: -30px 0 0;
     font-size: 20px;
+    text-align: center;
 }
 /* end component*/
 /* start header*/
