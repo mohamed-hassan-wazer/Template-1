@@ -399,3 +399,8 @@ body {
     }
 }
 /*end contact*/
+/*start footer*/
+.footer {
+    background-color: var(--secondary-color);
+}
+/*end footer*/
