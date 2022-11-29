@@ -42,6 +42,7 @@ body {
 .special-heading {
     color: #ebeced;
     font-size: 100px;
+    text-align: center;
 }
 /* end component*/
 /* start header*/
