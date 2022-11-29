@@ -302,6 +302,7 @@ body {
     content: "";
     position: absolute;
     background-color: #ebeced;
+    width: 100px;
 }
 .about .about-content .image img {
     max-width: 100%;
