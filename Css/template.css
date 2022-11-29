@@ -109,6 +109,8 @@ body {
 .header .links ul li:not(:last-child) a {
     border-bottom: 1px solid #ddd;
 }
+/* end header*/
+/* start landing section*/
 .landing {
     background-image: url(/Images/landing.jpg);
     background-size: cover;
@@ -134,5 +136,9 @@ body {
     font-size: 19px;
     line-height: 1.8;
 }
-
-/* end header*/
+/* end landing section*/
+/* start features*/
+.features {
+    padding-top: 60px;
+}
+/* end features*/
