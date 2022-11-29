@@ -325,6 +325,12 @@ body {
     right: -150px;
     z-index: -1;
 }
+@media (max-width:991px) {
+    .about .about-content .image::before,
+    .about .about-content .image::after {
+        display: none;
+    }
+}
 .about .about-content .image img {
     max-width: 100%;
 }
