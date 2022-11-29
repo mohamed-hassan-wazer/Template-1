@@ -278,5 +278,6 @@ body {
 }
 .portfolio .portfolio-content .card p {
     color: #777;
+    line-height: 1.6;
 }
 /* end portfolio*/
