@@ -2,6 +2,7 @@
 :root {
     --main-color: #10cab7;
     --secondary-color:#2c4755;
+    --section-padding:60px;
 }
 /*stat variables*/
 /* start global rules*/
