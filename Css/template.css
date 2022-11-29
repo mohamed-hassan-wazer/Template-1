@@ -228,5 +228,12 @@ body {
 }
 .services .services-content .srv .image {
     text-align: center;
+    position: relative;
+}
+.services .services-content .srv .image::before {
+    content:"";
+}
+.services .services-content .srv .image img {
+    width: 260px;
 }
 /* end services*/
