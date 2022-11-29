@@ -48,7 +48,7 @@ body {
     margin: 0;
 }
 .special-heading + p {
-    
+    margin: -30px 0 0;
 }
 /* end component*/
 /* start header*/
