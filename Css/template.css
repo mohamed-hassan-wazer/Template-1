@@ -221,4 +221,7 @@ body {
 .services .services-content .srv .text h3 {
     margin: 0 0 20px;
 }
+.services .services-content .srv .text p {
+    color: #444;
+}
 /* end services*/
