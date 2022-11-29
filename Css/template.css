@@ -303,6 +303,8 @@ body {
     position: absolute;
     background-color: #ebeced;
     width: 100px;
+    height: calc(100% + 80px);
+    
 }
 .about .about-content .image img {
     max-width: 100%;
