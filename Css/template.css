@@ -276,4 +276,7 @@ body {
 .portfolio .portfolio-content .card h3 {
     margin: 0px;
 }
+.portfolio .portfolio-content .card p {
+    color: #777;
+}
 /* end portfolio*/
