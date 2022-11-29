@@ -234,6 +234,7 @@ body {
 .services .services-content .srv .image::before {
     content:"";
     background-color: var(--secondary-color);
+    width: 100px;
 }
 .services .services-content .srv .image img {
     width: 260px;
