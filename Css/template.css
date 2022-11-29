@@ -47,6 +47,9 @@ body {
     letter-spacing: -3px;
     margin: 0;
 }
+.special-heading + p {
+    
+}
 /* end component*/
 /* start header*/
 .header {
