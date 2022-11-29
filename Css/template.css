@@ -282,3 +282,9 @@ body {
     margin-bottom: 0px;
 }
 /* end portfolio*/
+/*start about*/
+.about {
+    padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);
+}
+/*end about*/
