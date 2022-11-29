@@ -110,7 +110,7 @@ body {
     list-style: none;
     margin: 0;
     padding: 0;
-    background-color: #f6f6f6;
+    background-color: var(--section-background);
     position: absolute;
     right: 0;
     min-width: 200px;
@@ -169,7 +169,7 @@ body {
 .features {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-color: #f6f6f6;
+    background-color: var(--section-background);
 }
 .features .container {
     display: grid;
@@ -256,6 +256,12 @@ body {
 .portfolio {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-color: #f6f6f6;
+    background-color: var(--section-background);
+}
+.portfolio .portfolio-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(300px,lfr)) ;
+    grid-gap: 30px;
+    margin-top: 80px;
 }
 /* end portfolio*/
