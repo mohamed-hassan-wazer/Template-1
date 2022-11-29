@@ -402,5 +402,6 @@ body {
 /*start footer*/
 .footer {
     background-color: var(--secondary-color);
+    color: white;
 }
 /*end footer*/
