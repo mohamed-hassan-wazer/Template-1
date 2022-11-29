@@ -357,3 +357,10 @@ body {
     color: #777;
 }
 /*end about*/
+/*statr contact*/
+.contact {
+    padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);
+    background-color: var(--section-background);
+}
+/*end contact*/
