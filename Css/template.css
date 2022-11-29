@@ -403,5 +403,6 @@ body {
 .footer {
     background-color: var(--secondary-color);
     color: white;
+    padding: 30px 10px;
 }
 /*end footer*/
