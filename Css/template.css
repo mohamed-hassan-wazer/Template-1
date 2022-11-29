@@ -404,5 +404,6 @@ body {
     background-color: var(--secondary-color);
     color: white;
     padding: 30px 10px;
+    text-align: center;
 }
 /*end footer*/
