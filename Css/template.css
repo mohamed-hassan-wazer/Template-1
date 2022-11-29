@@ -300,6 +300,8 @@ body {
 }
 .about .about-content .image::before {
     content: "";
+    position: absolute;
+    background-color: #ebeced;
 }
 .about .about-content .image img {
     max-width: 100%;
