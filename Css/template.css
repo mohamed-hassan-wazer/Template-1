@@ -392,4 +392,10 @@ body {
     margin-left: 10px;
     color: var(--secondary-color);
 }
+@media (max-width:767px) {
+    .contact .info .label,
+    .contact .info .link {
+        font-size: 20px;
+    }
+}
 /*end contact*/
