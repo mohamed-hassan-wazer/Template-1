@@ -308,6 +308,11 @@ body {
     left: -20px;
     z-index: -1;
 }
+.about .about-content .image::after {
+    content: "";
+    position: absolute;
+    width: 120px;
+}
 .about .about-content .image img {
     max-width: 100%;
 }
