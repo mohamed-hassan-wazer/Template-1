@@ -143,4 +143,9 @@ body {
     padding-bottom: 60px;
     background-color: #f6f6f6;
 }
+.features .container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px,lfr));
+    grid-gap: 20px;
+}
 /* end features*/
