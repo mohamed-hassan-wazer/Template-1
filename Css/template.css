@@ -233,6 +233,7 @@ body {
 }
 .services .services-content .srv .image::before {
     content:"";
+    background-color: var(--secondary-color);
 }
 .services .services-content .srv .image img {
     width: 260px;
