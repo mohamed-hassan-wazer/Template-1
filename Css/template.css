@@ -273,4 +273,7 @@ body {
 .portfolio .portfolio-content .card .info {
     padding: 20px;
 }
+.portfolio .portfolio-content .card h3 {
+    margin: 0px;
+}
 /* end portfolio*/
