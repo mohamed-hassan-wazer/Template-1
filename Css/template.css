@@ -38,7 +38,11 @@ body {
 }
 
 /* end global rules*/
-
+/* start component*/
+.special-heading {
+    color: #ebeced;
+}
+/* end component*/
 /* start header*/
 .header {
     padding: 20px;
