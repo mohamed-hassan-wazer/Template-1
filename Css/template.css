@@ -380,5 +380,12 @@ body {
     font-size: 30px;
     font-weight: 800;
     color: var(--main-color);
+    text-decoration: none;
+}
+.contact .info .social {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 16px;
 }
 /*end contact*/
