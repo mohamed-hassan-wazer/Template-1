@@ -161,5 +161,6 @@ body {
 }
 .features .feat p {
     line-height: 1.8;
+    color: #777;
 }
 /* end features*/
